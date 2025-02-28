@@ -1,3 +1,3 @@
 # INT 142 Software Development Tools
-## Homework 01
+## Homework 02
 ### 67130500019 Papan Boonyakijmaitree
